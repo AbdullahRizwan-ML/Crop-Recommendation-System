@@ -13,7 +13,7 @@ This is a machine learning project that predicts the best crop to grow based on 
 3. Run frontend: `streamlit run frontend/app.py`
 
 ## 🧠 Models
-Trained using: Random Forest, SVM, Logistic Regression, etc.
+Trained using: Random Forest
 
 ## 🛠️ Tools
 - MLflow
