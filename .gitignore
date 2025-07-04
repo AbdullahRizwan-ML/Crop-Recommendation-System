@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.log
+
+# Environment
+venv/
+.env
+
+# MLflow logs
+mlruns/
+ML/mlruns/
+
+# Keys & credentials
+cropkey.pem
+
+# OS files
+.DS_Store
+Thumbs.db

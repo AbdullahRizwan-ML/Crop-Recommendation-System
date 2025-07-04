@@ -1,0 +1,23 @@
+# Core libraries
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+
+# Backend
+fastapi
+uvicorn
+
+# Frontend
+streamlit
+
+# MLflow for experiment tracking
+mlflow
+
+# Optional: label encoding if separate library used
+category_encoders
+
+# Dependency management (optional but good for dev)
+python-dotenv
